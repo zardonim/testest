@@ -27,6 +27,9 @@
 				<mhp:applicationTransport xsi:type="mhp:HTTPTransportType">
 					<mhp:URLBase>https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.html</mhp:URLBase>
 				</mhp:applicationTransport>
+				<mhp:applicationLocation
+					>?id=C5&amp;title=Canale%205</mhp:applicationLocation
+				>
 			</mhp:Application>
 		</mhp:ApplicationList>
 	</mhp:ApplicationDiscovery>
