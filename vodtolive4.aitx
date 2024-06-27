@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mhp:ServiceDiscovery xmlns:mhp="urn:dvb:mhp:2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<mhp:ApplicationDiscovery DomainName="https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.html">
+	<mhp:ApplicationDiscovery DomainName="http://test.vodos.oscdn.skycdn.it/test/dvbi/vodtolive.html">
 		<mhp:ApplicationList>
 			<mhp:Application>
 				<mhp:appName Language="eng">DVBI - Canale 5</mhp:appName>
@@ -25,7 +25,7 @@
 					</mhp:mhpVersion>
 				</mhp:applicationDescriptor>
 				<mhp:applicationTransport xsi:type="mhp:HTTPTransportType">
-					<mhp:URLBase>https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.html</mhp:URLBase>
+					<mhp:URLBase>http://test.vodos.oscdn.skycdn.it/test/dvbi/vodtolive.html</mhp:URLBase>
 				</mhp:applicationTransport>
 				<mhp:applicationLocation
 					>?id=C5&amp;title=Canale%205</mhp:applicationLocation
