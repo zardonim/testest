@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mhp:ServiceDiscovery xmlns:mhp="urn:dvb:mhp:2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<mhp:ApplicationDiscovery DomainName="https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.htmlg<">
+	<mhp:ApplicationDiscovery DomainName="https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.html<">
 		<mhp:ApplicationList>
 			<mhp:Application>
 				<mhp:appName Language="eng">Sky Atlantic HD V2L DVBI5</mhp:appName>
