@@ -25,7 +25,7 @@
 					</mhp:mhpVersion>
 				</mhp:applicationDescriptor>
 				<mhp:applicationTransport xsi:type="mhp:HTTPTransportType">
-					<mhp:URLBase>http://test.vodos.oscdn.skycdn.it/test/dvbi/vodtolive.html</mhp:URLBase>
+					<mhp:URLBase>https://static1.mediasetplay.mediaset.it/app/dvbi-hbbtv/index.html</mhp:URLBase>
 				</mhp:applicationTransport>
 			</mhp:Application>
 		</mhp:ApplicationList>
