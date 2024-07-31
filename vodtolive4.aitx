@@ -25,7 +25,7 @@
 					</mhp:mhpVersion>
 				</mhp:applicationDescriptor>
 				<mhp:applicationTransport xsi:type="mhp:HTTPTransportType">
-					<mhp:URLBase>http://test.vodos.oscdn.skycdn.it/test/dvbi/vodtolive.html</mhp:URLBase>
+					<mhp:URLBase>http://test.vodos.oscdn.skycdn.it/test/dvbi/vodtolivenew.html</mhp:URLBase>
 				</mhp:applicationTransport>
 				<mhp:applicationLocation
 					>?id=C5&amp;title=Canale%205</mhp:applicationLocation
